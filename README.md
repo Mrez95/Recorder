@@ -21,4 +21,4 @@ Copyright (c) 2014 Eddie Zhang.
 
 _________________________
 
-**The next iteration of the Re'corder application will improve upon some of the current flaws and shortcomings in this project. Stay tuned for Re'corder 2.0. Coming soon to the Google Play Store!**
+**Stay tuned for Re'corder 2.0. Coming soon to the Google Play Store!**
